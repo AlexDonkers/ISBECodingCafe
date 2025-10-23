@@ -1,7 +1,7 @@
 @prefix csvw: <http://www.w3.org/ns/csvw#> .
-@prefix fbr-nl: <http://firebim.org/regulations/nl#> .
-@prefix fro: <http://firebim.org/ontologies/fro#> .
-@prefix fbo: <http://firebim.org/ontologies/fbo#> .
+@prefix fbr-nl: <http://www.firebim.org/regulations/nl#> .
+@prefix fro: <http://www.firebim.org/ontologies/fro#> .
+@prefix fbo: <http://www.firebim.org/ontologies/fbo#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 fbr-nl:Article_1.1 a fro:Article ;
