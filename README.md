@@ -11,7 +11,7 @@ Quick links
 
 
 
-This repository contains all materials for the **"Neuro-Symbolic GraphRAG"** workshop — a hands-on introduction to combining **RDF knowledge graphs**, **ontologies**, and **Large Language Models (LLMs)** for reasoning over structured data.
+This repository contains all materials for the **"LLMs meet Knowledge Graphs"** workshop — a hands-on introduction to combining **RDF knowledge graphs**, **ontologies**, and **Large Language Models (LLMs)** for reasoning over structured data.
 
 Participants will learn how to go from **raw regulation text** to a **queryable, explainable knowledge system**, powered by **FireBIM ontologies** and **Gemini 2.0**.
 
