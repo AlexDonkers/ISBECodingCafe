@@ -1,4 +1,4 @@
-# 🧠 LLMs meet Knowledge Graphs: Exploring RDF graphs using Neuro-Symbolic AI
+# 🧠 LLMs meet Knowledge Graphs: Exploring RDF graphs using Neuro-Symbolic AI
 
 **TU/e Built Environment Coding Cafe**
 
