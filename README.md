@@ -3,7 +3,7 @@
 **TU/e Built Environment Coding Cafe**
 
 **Alex Donkers**
-
+<a href="https://aistudio.google.com/app/api-keys" target="_blank">Gemini API key</a>
 
 Quick links
    → [Gemini API key](https://aistudio.google.com/app/api-keys)
